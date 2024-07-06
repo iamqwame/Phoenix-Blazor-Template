@@ -1,4 +1,4 @@
-using BlazorApp1.Components;
+using PhoenixBlazorTemplate.Admin.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
